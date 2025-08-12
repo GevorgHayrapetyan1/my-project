@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section-padding{
+    padding: 50px 0;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+.text{
+    font-size: 10px;
+    text-align: center;
+}
