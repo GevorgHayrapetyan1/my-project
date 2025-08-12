@@ -11,10 +11,17 @@
     margin: 0 auto;
 }
 .title{
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
 }
 .text{
-    font-size: 10px;
+    font-size: 30px;
     text-align: center;
+    margin-top: 10px;
+}
+.image{
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding: 20px;
 }
